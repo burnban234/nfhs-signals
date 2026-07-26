@@ -1,0 +1,392 @@
+[
+ {
+  "signal_number": 1,
+  "name": "Start clock",
+  "description": "Raise one open hand above the head, then chop the arm downward to start the clock.",
+  "file": "signal_01.png",
+  "sha256_16": "67a498b65bacdec6",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "492x632"
+ },
+ {
+  "signal_number": 2,
+  "name": "Stop clock",
+  "description": "Raise one open hand above the head with the palm facing forward.",
+  "file": "signal_02.png",
+  "sha256_16": "8c5eb10ba060b1a1",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x632"
+ },
+ {
+  "signal_number": 3,
+  "name": "Stop clock for jump/held ball",
+  "description": "Raise both hands with thumbs up to stop the clock for a held ball, then indicate the alternating-possession direction.",
+  "file": "signal_03.png",
+  "sha256_16": "44f72e765329049b",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x632"
+ },
+ {
+  "signal_number": 4,
+  "name": "Stop clock for foul",
+  "description": "Raise one clenched fist above the head.",
+  "file": "signal_04.png",
+  "sha256_16": "4d62aa04f81db12d",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x632"
+ },
+ {
+  "signal_number": 5,
+  "name": "Stop clock for foul - optional bird dog",
+  "description": "Raise one clenched fist above the head and point toward the fouling player with the opposite arm.",
+  "file": "signal_05.png",
+  "sha256_16": "371a97ff1df5b889",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x632"
+ },
+ {
+  "signal_number": 6,
+  "name": "Directional signal",
+  "description": "Extend one arm horizontally with an open hand toward the direction of play or the awarded basket.",
+  "file": "signal_06.png",
+  "sha256_16": "9f2e123b9691f2fa",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "492x632"
+ },
+ {
+  "signal_number": 7,
+  "name": "Throw-in and free-throw designated spot / violation",
+  "description": "Point to the floor at the designated spot or the location of the violation.",
+  "file": "signal_07.png",
+  "sha256_16": "749bfc9463e1a86c",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 8,
+  "name": "Move along endline on throw-in",
+  "description": "Sweep one arm horizontally along the end line to show that the thrower may move along it.",
+  "file": "signal_08.png",
+  "sha256_16": "876d0d5126c4dec0",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 9,
+  "name": "Visible counts",
+  "description": "Extend one arm and move the forearm rhythmically while visibly counting seconds.",
+  "file": "signal_09.png",
+  "sha256_16": "005ab774a8909f05",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 10,
+  "name": "Beckoning substitutes",
+  "description": "Hold one open hand up and wave it inward toward the body to beckon substitutes onto the court.",
+  "file": "signal_10.png",
+  "sha256_16": "311cae6554da9431",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 11,
+  "name": "60-second time-out",
+  "description": "Extend both arms horizontally to the sides at shoulder height.",
+  "file": "signal_11.png",
+  "sha256_16": "1cf00840466e19ea",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 12,
+  "name": "30-second time-out",
+  "description": "Place both hands on or near the shoulders with elbows extended outward.",
+  "file": "signal_12.png",
+  "sha256_16": "3c49fe743f1c76fa",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "332x631"
+ },
+ {
+  "signal_number": 13,
+  "name": "Not closely guarded",
+  "description": "Extend both arms horizontally to the sides to indicate that the closely guarded count does not apply.",
+  "file": "signal_13.png",
+  "sha256_16": "b49b3b43c9b2973c",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "499x631"
+ },
+ {
+  "signal_number": 14,
+  "name": "Tipped ball",
+  "description": "Hold both hands above the head and brush or touch the fingertips of one hand against the other.",
+  "file": "signal_14.png",
+  "sha256_16": "f752be32ea554b40",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "497x632"
+ },
+ {
+  "signal_number": 15,
+  "name": "Flopping",
+  "description": "Hold both open hands upright in front of the torso and move both forearms downward together to indicate faking being fouled.",
+  "file": "signal_15.png",
+  "sha256_16": "39ad607b239e94ad",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "497x632"
+ },
+ {
+  "signal_number": 16,
+  "name": "No score",
+  "description": "Extend both arms horizontally and wave them side to side to cancel or deny the score.",
+  "file": "signal_16.png",
+  "sha256_16": "9b2670af98e65acf",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "492x632"
+ },
+ {
+  "signal_number": 17,
+  "name": "Goal counts",
+  "description": "Raise one arm and sweep it downward to indicate that the goal counts.",
+  "file": "signal_17.png",
+  "sha256_16": "57ab9cb9e4b18b88",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "497x632"
+ },
+ {
+  "signal_number": 18,
+  "name": "Points scored",
+  "description": "Point toward the scorer and show one or two fingers after the goal-count signal.",
+  "file": "signal_18.png",
+  "sha256_16": "d3ff0a4350cf61e2",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "498x632"
+ },
+ {
+  "signal_number": 19,
+  "name": "3-point attempt / 3-point score / 3-point made",
+  "description": "For an attempt, raise one arm with three fingers extended. When made, raise both arms with three fingers extended.",
+  "file": "signal_19.png",
+  "sha256_16": "7b6df680a470433b",
+  "source_chart": 1,
+  "source_page": 2,
+  "px": "499x632"
+ },
+ {
+  "signal_number": 20,
+  "name": "Signal free throw",
+  "description": "Raise one hand and display the number of free throws with the appropriate number of fingers.",
+  "file": "signal_20.png",
+  "sha256_16": "efb4f9925e391e24",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "492x631"
+ },
+ {
+  "signal_number": 21,
+  "name": "Delayed violation - withheld whistle",
+  "description": "Extend one arm horizontally with a closed fist and withhold the whistle until the play is completed.",
+  "file": "signal_21.png",
+  "sha256_16": "1afcc40a2a761dea",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "491x631"
+ },
+ {
+  "signal_number": 22,
+  "name": "Traveling violation",
+  "description": "Rotate both clenched fists around each other in front of the body.",
+  "file": "signal_22.png",
+  "sha256_16": "2ff934758fc505d8",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 23,
+  "name": "Illegal dribble",
+  "description": "Move both open hands alternately up and down in a patting motion.",
+  "file": "signal_23.png",
+  "sha256_16": "a185f49ac41eff45",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "492x631"
+ },
+ {
+  "signal_number": 24,
+  "name": "Palming / carry",
+  "description": "Turn one open hand from palm down to palm up to show that the ball came to rest in the hand.",
+  "file": "signal_24.png",
+  "sha256_16": "a0eb0f73035f4e29",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 25,
+  "name": "Backcourt / first to touch from out of bounds violation",
+  "description": "Sweep one forearm across the front of the body to indicate the violation.",
+  "file": "signal_25.png",
+  "sha256_16": "ac8df43bda39ff00",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "497x631"
+ },
+ {
+  "signal_number": 26,
+  "name": "3-second violation",
+  "description": "Show three fingers, then sweep the arm across the lane area.",
+  "file": "signal_26.png",
+  "sha256_16": "26335aadb68fed16",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "360x632"
+ },
+ {
+  "signal_number": 27,
+  "name": "5-second violation",
+  "description": "Hold up one open hand with all five fingers extended.",
+  "file": "signal_27.png",
+  "sha256_16": "8293daad2b6c9f8e",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "366x632"
+ },
+ {
+  "signal_number": 28,
+  "name": "10-second violation",
+  "description": "Hold up both open hands with all ten fingers extended.",
+  "file": "signal_28.png",
+  "sha256_16": "b785da5ede57aa16",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "369x632"
+ },
+ {
+  "signal_number": 29,
+  "name": "Excessive swinging elbows",
+  "description": "Swing a bent elbow horizontally across the body.",
+  "file": "signal_29.png",
+  "sha256_16": "d5318848b49ec1bf",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "497x632"
+ },
+ {
+  "signal_number": 30,
+  "name": "Kicking",
+  "description": "Point toward the foot or make a small kicking motion with the lower leg.",
+  "file": "signal_30.png",
+  "sha256_16": "cba75201a6f30913",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "492x632"
+ },
+ {
+  "signal_number": 31,
+  "name": "Illegal use of hands",
+  "description": "Strike or grasp the wrist of one arm with the opposite hand.",
+  "file": "signal_31.png",
+  "sha256_16": "538c6dd5336eda4c",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "498x632"
+ },
+ {
+  "signal_number": 32,
+  "name": "Hand check",
+  "description": "Place one hand against the opposite forearm or wrist while the other palm faces outward.",
+  "file": "signal_32.png",
+  "sha256_16": "742e258c5b97af54",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "497x632"
+ },
+ {
+  "signal_number": 33,
+  "name": "Holding",
+  "description": "Grasp one wrist with the opposite hand in front of the chest.",
+  "file": "signal_33.png",
+  "sha256_16": "aae0b21bad60217f",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "393x631"
+ },
+ {
+  "signal_number": 34,
+  "name": "Blocking",
+  "description": "Place both hands on the hips.",
+  "file": "signal_34.png",
+  "sha256_16": "a451dd6eca40598e",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "400x631"
+ },
+ {
+  "signal_number": 35,
+  "name": "Pushing / charging",
+  "description": "Extend both open hands forward from the chest in a pushing motion.",
+  "file": "signal_35.png",
+  "sha256_16": "9abad45583efe65b",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "400x631"
+ },
+ {
+  "signal_number": 36,
+  "name": "Player / team control",
+  "description": "Place one hand behind the head with the elbow pointing outward.",
+  "file": "signal_36.png",
+  "sha256_16": "9bade262c18c6b80",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "399x631"
+ },
+ {
+  "signal_number": 37,
+  "name": "Intentional foul",
+  "description": "Cross both wrists above the head with clenched fists.",
+  "file": "signal_37.png",
+  "sha256_16": "2a25b932789316b5",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "492x631"
+ },
+ {
+  "signal_number": 38,
+  "name": "Double foul",
+  "description": "Extend both arms horizontally to the sides with clenched fists.",
+  "file": "signal_38.png",
+  "sha256_16": "fdc0aab9c891bdec",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "498x631"
+ },
+ {
+  "signal_number": 39,
+  "name": "Technical foul",
+  "description": "Form a T by placing one hand horizontally over the other vertical hand.",
+  "file": "signal_39.png",
+  "sha256_16": "1a23acfb1f18f38c",
+  "source_chart": 2,
+  "source_page": 3,
+  "px": "497x631"
+ }
+]
